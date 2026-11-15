@@ -1,0 +1,6 @@
+{
+  "name": "Skyline Mayor",
+  "description": "3D city-building simulation with highways, transit, factories, seasons, day/night cycle, local auto-save, and in-game music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
